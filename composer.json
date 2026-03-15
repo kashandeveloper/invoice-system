@@ -1,0 +1,12 @@
+{
+  "name": "portfolio/invoice-system",
+  "type": "project",
+  "require": {
+    "dompdf/dompdf": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "": "api/"
+    }
+  }
+}
